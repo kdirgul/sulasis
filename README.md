@@ -1,4 +1,4 @@
-# Sulasis - Akıllı Sulama Sistemi
+# Sulasis - Akıllı Sulama Sistemi - Smart Irrigation System
 
 ESP8266 tabanlı, zamanlayıcı kontrollü ve Wi-Fi ap üzerinden uzaktan erişilebilen bir **bahçe sulama otomasyonu** projesidir.
 

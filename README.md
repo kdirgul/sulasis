@@ -36,8 +36,9 @@ ESP8266 tabanlı, zamanlayıcı kontrollü ve Wi-Fi ap üzerinden uzaktan erişi
 > Not: Röle modülü 5V ile çalışıyorsa harici bir 5V güç kaynağı ve optoizolasyon önerilir.
 > Geri bildirim ve katkılarınızı bekliyoruz!!!
 
-![1](https://github.com/user-attachments/assets/d5d711b2-265a-42bb-b290-433e90d11e5a)
-![2](https://github.com/user-attachments/assets/b50f6223-061c-48d9-83a1-b3a266be6d4c)
-![3](https://github.com/user-attachments/assets/42672840-9634-4cfb-a3a8-9f44898122b6)
+
+
+![1](https://github.com/user-attachments/assets/13317b6b-8d34-48ba-90d2-5a532c83c6d1)
+
 
 

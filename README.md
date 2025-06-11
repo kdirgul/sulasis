@@ -33,4 +33,5 @@ ESP8266 tabanlı, zamanlayıcı kontrollü ve Wi-Fi ap üzerinden uzaktan erişi
 | GND                | GND                                 |
 | VCC (Modüller)     | VIN veya 3V (gereksinime göre)      |
 
-> ⚠️ Not: Röle modülü 5V ile çalışıyorsa harici bir 5V güç kaynağı ve optoizolasyon önerilir.
+> Not: Röle modülü 5V ile çalışıyorsa harici bir 5V güç kaynağı ve optoizolasyon önerilir.
+> Geri bildirim ve katkılarınızı bekliyoruz!!!
